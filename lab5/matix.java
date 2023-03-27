@@ -23,6 +23,7 @@ public class matix{
       for (int i = 0; i < matrixA.length; i++) {
         for (int j = 0; j < matrixA[0].length; j++) {
           sum[i][j] = matrixA[i][j] + matrixB[i][j];
+          
         }
       }
       
