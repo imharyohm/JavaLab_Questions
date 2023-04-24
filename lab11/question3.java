@@ -26,7 +26,7 @@ class A {
     // }
 
     // This is a valid override
-    public int add(int a, int b) {
+    private int add(int a, int b) {
         return a + b + 10;
     }
  }

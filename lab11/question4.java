@@ -1,5 +1,3 @@
-import javax.print.DocFlavor.STRING;
-
 //5. WAP in java to work on following functions in string “welcome to Java
 // Programming” A.equals, ==, compareto, equalsIgnoreCase, length
 

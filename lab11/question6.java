@@ -11,7 +11,7 @@ public class question6 {
         StringBuffer s4 = new StringBuffer("good morning");
         System.out.println(s1.append(s2));
         System.out.println(s1.insert(0, "jai shree ram"));
-        System.out.println(s1.replace(0, 11, "jai shree krishna"));
+        System.out.println(s1.replace(4, 11, "jai shree krishna"));
         System.out.println(s1.delete(0, 11));
         System.out.println(s1.reverse());
         System.out.println(s1.capacity());

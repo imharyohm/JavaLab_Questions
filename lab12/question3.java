@@ -6,7 +6,7 @@ import java.io.*;
 public class question3{
     public static void main(String[] args) {
         try{
-            File file = new File("bio.txt");
+            File file = new File("biodata.txt");
             FileReader fr = new FileReader(file);
             FileWriter fw = new FileWriter(file);
             int i;

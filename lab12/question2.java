@@ -5,7 +5,7 @@ import java.io.*;
 
 public class question2{
     public static void main(String[] args){
-        File file = new File("bio.txt");
+        File file = new File("biodata.txt");
         File file2 = new File("bio1.txt");
         // using FileInputStream
 
@@ -27,7 +27,7 @@ public class question2{
         }
         fin.close();
         fin1.close();
-        System.out.println("Check");
+        // System.out.println("Check");
  
     }catch(IOException e){
         System.out.println(e);
